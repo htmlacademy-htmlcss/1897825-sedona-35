@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Кирилл Косенко](https://up.htmlacademy.ru/htmlcss/35/user/1897825).
-* Наставник: [<a href="https://up.htmlacademy.ru/profession/frontender-extended/3/htmlcss/35/user/38064">Николай Думчев</a>]
+* Наставник: <a href="https://up.htmlacademy.ru/profession/frontender-extended/3/htmlcss/35/user/38064">Николай Думчев</a>
 
 ---
 
